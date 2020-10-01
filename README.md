@@ -1,3 +1,5 @@
+-> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://drive.google.com/file/d/1Wk3dh4rnux7TVQkOD0NfOo7UG2KglsE4/view?usp=sharing) <-
+
 # Handwritten-Digits-Recognizer-1.0
 
 Actually Mousewritten Digits Recognizer using CNN (Convolutional Neural Networks) in Python with Keras
@@ -30,8 +32,6 @@ You can add or remove an input field whenever you want.
 ![0](Screenshots//0.png)
 ![16](Screenshots//16.png)
 ![2351](Screenshots//2351.png)
-
--> [Link to a video showing how the program exactly works](https://drive.google.com/file/d/1Wk3dh4rnux7TVQkOD0NfOo7UG2KglsE4/view?usp=sharing) <-
 
 # 3. How to install:
 If you're familiar with git you can clone the repo. Otherwise you can simply download whole project as a compressed folder.
