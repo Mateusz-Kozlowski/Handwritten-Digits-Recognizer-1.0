@@ -1,4 +1,4 @@
--> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://drive.google.com/file/d/1Wk3dh4rnux7TVQkOD0NfOo7UG2KglsE4/view?usp=sharing) <-
+-> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://youtu.be/jqCiGSre-qI) <-
 
 # Handwritten-Digits-Recognizer-1.0
 
