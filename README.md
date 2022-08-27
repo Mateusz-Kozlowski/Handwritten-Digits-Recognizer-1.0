@@ -1,3 +1,5 @@
+![2351](Screenshots//2351.png)
+
 -> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://youtu.be/jqCiGSre-qI) <-
 
 # Handwritten-Digits-Recognizer-1.0
